@@ -1,0 +1,9 @@
+{
+  "name": "easyrepl",
+  "description": "Create a scoped REPL instance on a randomish port",
+  "version": "0.0.2",
+  "author": "Lagao <join@lagoa.com >",
+  "dependencies": {
+  },
+  "engines": { "node": ">= 0.6.0" }
+}
