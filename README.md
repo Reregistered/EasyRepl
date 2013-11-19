@@ -13,7 +13,8 @@ Example usage
       process: {
         // only expose a subset of process which is useful for debugging
         memoryUsage : process.memoryUsage,
-        uptime : process.uptime,     hrtime : process.hrtime
+        uptime : process.uptime,     
+        hrtime : process.hrtime
       }
     });
     
